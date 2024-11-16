@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bab7842-e790-4c72-99a5-1f0ead00635b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/ngnix/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel/ngnix/gix.conf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel/.env" beforeDir="false" afterPath="$PROJECT_DIR$/hotel/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel/rooms/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel/rooms/filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel/rooms/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel/rooms/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel/rooms/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel/rooms/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel/rooms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hotel/rooms/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
